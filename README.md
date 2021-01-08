@@ -3,7 +3,7 @@
 ## Session 1: Monday 11 January 2021
 * Lesson 8pm - 9pm; Q&A 9pm - 10pm
 * Google Meet (link to follow)
-* Discord
+* [Join the conversation on Discord](https://github.com/workshop-maybe/dev-course-001)
 
 ### Pre-Reading
 - Take a look at [CSK 003](https://github.com/GimbaLabs/csk-003), in particular Part 3. At minimum, make sure to set up Visual Studio Code and NodeJS.
