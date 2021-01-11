@@ -1,8 +1,8 @@
-# Workshop Maybe Cardano Web Development Course 001
+# Workshop Maybe Cardano Web Development Course #001
 
 ## Session 1: Monday 11 January 2021
 * Lesson 8pm - 9pm; Q&A 9pm - 10pm
-* Google Meet (link to follow)
+* [Live via Google Meet](https://meet.google.com/hja-ffim-yvr)
 * [Join the conversation on Discord](https://github.com/workshop-maybe/dev-course-001)
 
 ### Pre-Reading
