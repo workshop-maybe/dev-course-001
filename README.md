@@ -36,6 +36,8 @@ Use Bootstrap to improve the appearance of our site
 	2. Read documentation here: https://getbootstrap.com (you probably installed v4.5.3?)
 2. A different endpoint?
 
+---
+
 # Tentative Outline for Sessions 2-4
 ## Session 2: Monday 18 January 2021
 Separating concerns in React and using React Router; More Dandelion queries; GET vs POST requests
