@@ -27,7 +27,7 @@
 5. Using data in our app
     ```<p>{ideas.idea[0].id}: {ideas.idea[0].text}</p>```
 6. ```array.map```
-7. External data via Dandelion
+7. External data via Dandelion with ```useEffect``` and ```axios```
 
 ### Follow Up Assignment
 Use Bootstrap to improve the appearance of our site
@@ -40,7 +40,11 @@ Use Bootstrap to improve the appearance of our site
 
 # Tentative Outline for Sessions 2-4
 ## Session 2: Monday 18 January 2021
-Separating concerns in React and using React Router; More Dandelion queries; GET vs POST requests
+We won't cover all of these in an hour, so which should we prioritize?
+* Separating concerns in React and using React Router
+* More Dandelion queries
+* GET vs POST requests
+* Git and GitHub
 
 ## Session 3: Monday 25 January 2021
 Working with your own PostgreSQL database; user authentication
