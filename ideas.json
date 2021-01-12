@@ -1,0 +1,19 @@
+{
+    "title": "Workshop Maybe Ideas",
+    "homeTown": "Worcester, MA",
+    "idea": [
+        {
+            "id": 1,
+            "text": "Talk to local businesses"
+        },{
+            "id": 2,
+            "text": "Foster teams of builders"
+        },{
+            "id": 3,
+            "text": "Talk to Ed Augustus"
+        },{
+            "id": 4,
+            "text": "Inquire about the Voke building"
+        }
+    ]
+}
