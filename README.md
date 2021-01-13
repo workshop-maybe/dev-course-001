@@ -1,5 +1,26 @@
 # Workshop Maybe Cardano Web Development Course #001
 
+## Session 2: Monday 18 January 2021
+
+### To Prepare:
+- [Here's a recording of our first meeting](https://youtu.be/mFtvVTSzp80)
+- [This is what App.js looked like after Session 1](https://github.com/workshop-maybe/dev-course-001/blob/main/session-one.md)
+- Remember that you can also grab the data from ```ideas.json``` above
+
+### Follow Up From Session 1
+Use Bootstrap to improve the appearance of our site
+- Styling via Bootstrap
+	1. See how to add Bootstrap to your project: https://create-react-app.dev/docs/adding-bootstrap
+	2. Read documentation here: https://getbootstrap.com (you probably installed v4.5.3?)
+
+### Preliminary Agenda for Session 2
+* Separating concerns in React and using React Router
+* More Dandelion queries
+* GET vs POST requests
+* Git and GitHub
+
+---
+
 ## Session 1: Monday 11 January 2021
 * Lesson 8pm - 9pm; Q&A 9pm - 10pm
 * [Meeting Recording on YouTube](https://youtu.be/mFtvVTSzp80)
@@ -29,22 +50,10 @@
 6. ```array.map```
 7. External data via Dandelion with ```useEffect``` and ```axios```
 
-### Follow Up Assignment
-Use Bootstrap to improve the appearance of our site
-1. Styling via Bootstrap
-	1. See how to add Bootstrap to your project: https://create-react-app.dev/docs/adding-bootstrap
-	2. Read documentation here: https://getbootstrap.com (you probably installed v4.5.3?)
-2. A different endpoint?
-
 ---
 
-# Tentative Outline for Sessions 2-4
-## Session 2: Monday 18 January 2021
-We won't cover all of these in an hour, so which should we prioritize?
-* Separating concerns in React and using React Router
-* More Dandelion queries
-* GET vs POST requests
-* Git and GitHub
+# Tentative Outline for Sessions 3-4
+
 
 ## Session 3: Monday 25 January 2021
 Working with your own PostgreSQL database; user authentication
