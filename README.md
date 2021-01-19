@@ -1,23 +1,25 @@
 # Workshop Maybe Cardano Web Development Course #001
 
-## Session 2: Monday 18 January 2021
+## Most Recent Session (#2): Monday 18 January 2021
+- [Meeting Recording on YouTube](https://youtu.be/4Bvq8aIy42Q)
+- [Our current "Example App" on GitHub](https://github.com/workshop-maybe/dev-course-001-example-app)
 
-### To Prepare:
-- [Here's a recording of our first meeting](https://youtu.be/mFtvVTSzp80)
-- [This is what App.js looked like after Session 1](https://github.com/workshop-maybe/dev-course-001/blob/main/session-one.md)
-- Remember that you can also grab the data from ```ideas.json``` above
+### What we covered:
+- Separating components in React (note that we placed all files directly in ```/src``` - this is not the best approach. Even better will be to create sub-folders within ```/src``` to stay even more organized).
+- Using ```curl``` to explore API endpoints on the command line
+- GET data from [Dandelion API](https://gimbalabs.com/#/open-source-apis) and render it to page
+- Using ```map``` to render that data (note that there are more effective ways to handle this data too - this was just an initial look)
 
-### Follow Up From Session 1
-Use Bootstrap to improve the appearance of our site
-- Styling via Bootstrap
-	1. See how to add Bootstrap to your project: https://create-react-app.dev/docs/adding-bootstrap
-	2. Read documentation here: https://getbootstrap.com (you probably installed v4.5.3?)
+### Next Session (#3): Monday 25 January 2021
+- Adding some styles to our example-app
+    - See how to add Bootstrap to your project: https://create-react-app.dev/docs/adding-bootstrap
+- Incorporating the Wolfram API into our example-app
+- Moving beyond GET request by taking user input and moving toward interactivity
 
-### Preliminary Agenda for Session 2
-* Separating concerns in React and using React Router
-* More Dandelion queries
-* GET vs POST requests
-* Git and GitHub
+### To Prepare for Session #3:
+- Review video for Sessions [1](https://youtu.be/mFtvVTSzp80) and [2](https://youtu.be/4Bvq8aIy42Q)
+- Take a look at the [Wolfram API Docs](https://products.wolframalpha.com/api/)
+- Take a look at the [Bootstrap Docs](https://getbootstrap.com/)
 
 ---
 
@@ -52,11 +54,8 @@ Use Bootstrap to improve the appearance of our site
 
 ---
 
-# Tentative Outline for Sessions 3-4
-
-
-## Session 3: Monday 25 January 2021
-Working with your own PostgreSQL database; user authentication
+# Tentative Outline for Sessions 4
 
 ## Session 4: Monday 1 February 2021
-What do we know so far about oracles?
+- Working with your own PostgreSQL database; user authentication
+- What do we know so far about oracles?
