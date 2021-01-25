@@ -14,7 +14,8 @@
 - Adding some styles to our example-app
     - See how to add Bootstrap to your project: https://create-react-app.dev/docs/adding-bootstrap
 - Incorporating the Wolfram API into our example-app
-- Moving beyond GET request by taking user input and moving toward interactivity
+- Reasoning about the role of oracles in a DApp
+- If there's time: moving beyond GET request by taking user input and moving toward interactivity
 
 ### To Prepare for Session #3:
 - Review video for Sessions [1](https://youtu.be/mFtvVTSzp80) and [2](https://youtu.be/4Bvq8aIy42Q)
