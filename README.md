@@ -19,7 +19,7 @@
 
 ### To Prepare for Session #3:
 - Review video for Sessions [1](https://youtu.be/mFtvVTSzp80) and [2](https://youtu.be/4Bvq8aIy42Q)
-- Take a look at the [Wolfram API Docs](https://products.wolframalpha.com/api/)
+- Read this [wikipedia entry about the Document Object Model](https://en.wikipedia.org/wiki/Document_Object_Model)
 - Take a look at the [Bootstrap Docs](https://getbootstrap.com/)
 
 ---
