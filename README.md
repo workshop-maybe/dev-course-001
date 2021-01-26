@@ -11,9 +11,10 @@
 - Using ```map``` to render that data (note that there are more effective ways to handle this data too - this was just an initial look)
 
 ### Next Session (#3): Monday 25 January 2021
+- Getting even more organized with ```react-router-dom```
 - Adding some styles to our example-app
     - See how to add Bootstrap to your project: https://create-react-app.dev/docs/adding-bootstrap
-- Incorporating the Wolfram API into our example-app
+- Incorporating the an external API into our example-app (sorry - no Wolfram tonight, but soon!)
 - Reasoning about the role of oracles in a DApp
 - If there's time: moving beyond GET request by taking user input and moving toward interactivity
 
