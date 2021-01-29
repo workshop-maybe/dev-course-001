@@ -1,27 +1,46 @@
 # Workshop Maybe Cardano Web Development Course #001
+THANK YOU to everyone who has particpated, dropped by, reviewed what we've got here for this first "dev course" experiment. I have learned a lot, and I hope you've learned a bit too.
 
-## Most Recent Session (#2): Monday 18 January 2021
-- [Meeting Recording on YouTube](https://youtu.be/4Bvq8aIy42Q)
+Two specicific lessons I've learned:
+1. It's really tempting to try to pack an agenda and show off a variety of functionality at once!
+2. Making sure there's time to get stuck, and to engage in collaborative problem solving is an effective way to use in-person time.
+
+I'd like to get better at scoping our work so that I can convey a few important ideas in a way that makes it feel natural for people to go off and tinker for a few hours. For the next iteration, my goal is to create a course where someone with limited time will be able to get value out of just one live course per week plus two hours of individual work time (ie, just a cut of your Netflix time, but still enough time to relax). And for anyone who has more time, I want to get you right to edge of the rabbit hole so you can jump in.
+
+So "Version 2" of this course is coming soon! But first, let's finish up with one more meeting this Monday. I want to get everyone to the point of understanding the benefits of what I'll show you in v2.
+
+### To Prepare for Session #4 on Monday 1 February 2021:
+- Review video for Sessions 1-3 below
+- Read/work through a bit of [the React tutorial](https://reactjs.org/tutorial/tutorial.html). In particular, pay attention to the parts about "State".
+- If you've already completed this tutorial on your own, take a look at [Components and Props in the React docs](https://reactjs.org/docs/components-and-props.html), and continue on to [State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html).
+
+### Most Recent Session (#3): Monday 25 January 2021
+- [Meeting Recording on YouTube]()
 - [Our current "Example App" on GitHub](https://github.com/workshop-maybe/dev-course-001-example-app)
+
+### What we covered:
+- Getting even more organized with ```react-router-dom```
+- Adding some styles to our example-app
+    - See how to add Bootstrap to your project: https://create-react-app.dev/docs/adding-bootstrap
+
+### What we didn't get to:
+- Incorporating the an external API into our example-app (sorry - no Wolfram tonight, but soon!)
+- Reasoning about the role of oracles in a DApp
+
+### Further Reading
+- Read this [wikipedia entry about the Document Object Model](https://en.wikipedia.org/wiki/Document_Object_Model)
+- Take a look at the [Bootstrap Docs](https://getbootstrap.com/)
+
+---
+
+## Session 2: Monday 18 January 2021
+- [Meeting Recording on YouTube](https://youtu.be/4Bvq8aIy42Q)
 
 ### What we covered:
 - Separating components in React (note that we placed all files directly in ```/src``` - this is not the best approach. Even better will be to create sub-folders within ```/src``` to stay even more organized).
 - Using ```curl``` to explore API endpoints on the command line
 - GET data from [Dandelion API](https://gimbalabs.com/#/open-source-apis) and render it to page
 - Using ```map``` to render that data (note that there are more effective ways to handle this data too - this was just an initial look)
-
-### Next Session (#3): Monday 25 January 2021
-- Getting even more organized with ```react-router-dom```
-- Adding some styles to our example-app
-    - See how to add Bootstrap to your project: https://create-react-app.dev/docs/adding-bootstrap
-- Incorporating the an external API into our example-app (sorry - no Wolfram tonight, but soon!)
-- Reasoning about the role of oracles in a DApp
-- If there's time: moving beyond GET request by taking user input and moving toward interactivity
-
-### To Prepare for Session #3:
-- Review video for Sessions [1](https://youtu.be/mFtvVTSzp80) and [2](https://youtu.be/4Bvq8aIy42Q)
-- Read this [wikipedia entry about the Document Object Model](https://en.wikipedia.org/wiki/Document_Object_Model)
-- Take a look at the [Bootstrap Docs](https://getbootstrap.com/)
 
 ---
 
