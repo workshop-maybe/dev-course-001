@@ -14,6 +14,8 @@ So "Version 2" of this course is coming soon! But first, let's finish up with on
 - Read/work through a bit of [the React tutorial](https://reactjs.org/tutorial/tutorial.html). In particular, pay attention to the parts about "State".
 - If you've already completed this tutorial on your own, take a look at [Components and Props in the React docs](https://reactjs.org/docs/components-and-props.html), and continue on to [State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html).
 
+---
+
 ### Most Recent Session (#3): Monday 25 January 2021
 - [Meeting Recording on YouTube]()
 - [Our current "Example App" on GitHub](https://github.com/workshop-maybe/dev-course-001-example-app)
