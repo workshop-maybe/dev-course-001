@@ -7,7 +7,7 @@ Two specicific lessons I've learned:
 
 I'd like to get better at scoping our work so that I can convey a few important ideas in a way that makes it feel natural for people to go off and tinker for a few hours. For the next iteration, my goal is to create a course where someone with limited time will be able to get value out of just one live course per week plus two hours of individual work time (ie, just a cut of your Netflix time, but still enough time to relax). And for anyone who has more time, I want to get you right to edge of the rabbit hole so you can jump in.
 
-So "Version 2" of this course is coming soon! But first, let's finish up with one more meeting this Monday. I want to get everyone to the point of understanding the benefits of what I'll show you in v2.
+So "Version 2" of this course is coming soon! But first, let's finish up with one more meeting this Monday. I want to get everyone to the point of understanding the benefits of what we'll do in v2.
 
 ### To Prepare for Session #4 on Monday 1 February 2021:
 - Review video for Sessions 1-3 below
