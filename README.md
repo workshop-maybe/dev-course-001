@@ -1,4 +1,4 @@
-# Workshop Maybe Cardano Web Development Course #001
+# Workshop Maybe Web Development Course #001
 THANK YOU to everyone who has particpated, dropped by, reviewed what we've got here for this first "dev course" experiment. I have learned a lot, and I hope you've learned a bit too.
 
 Two specicific lessons I've learned:
